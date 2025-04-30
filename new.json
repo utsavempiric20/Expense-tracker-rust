@@ -58,5 +58,11 @@
     "date": "2024-07-16",
     "category": "Kesar-Pista",
     "amount": 50
+  },
+  {
+    "id": "8c93cb69-a076-4b46-9400-45b8ab3a97ea",
+    "date": "2025-04-30",
+    "category": "Kaju-Anjir",
+    "amount": 1080
   }
 ]

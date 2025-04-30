@@ -1,0 +1,74 @@
+[
+  {
+    "id": "69cfb304-844b-4274-ae13-b109999addda",
+    "date": "2024-11-01",
+    "category": "CopyTrait",
+    "amount": 200
+  },
+  {
+    "id": "1fb2dcbf-beec-4f3f-a84e-c0dc45f8bba8",
+    "date": "2024-12-12",
+    "category": "DisplayTrait",
+    "amount": 250
+  },
+  {
+    "id": "29f9c05f-05d4-4c63-af90-27798fbc0667",
+    "date": "2024-10-10",
+    "category": "DebugTrait",
+    "amount": 350
+  },
+  {
+    "id": "129d99e8-6a74-41df-8829-649d1f1691de",
+    "date": "2024-05-05",
+    "category": "CloneTrait",
+    "amount": 500
+  },
+  {
+    "id": "07fbd21a-6754-4911-a7ef-bac56f1e9267",
+    "date": "2024-06-06",
+    "category": "MacroTrait",
+    "amount": 850
+  },
+  {
+    "id": "8e13358e-8dec-4b17-bb61-30d1075bd8c6",
+    "date": "2024-04-04",
+    "category": "FmtTrait",
+    "amount": 2250
+  },
+  {
+    "id": "cbbda4b1-2a0f-4991-beb2-5cde5347b73f",
+    "date": "2024-03-03",
+    "category": "ImplTrait",
+    "amount": 850
+  },
+  {
+    "id": "b7c5e54d-29c5-46e1-b627-e40cd0dd6ffd",
+    "date": "2024-08-08",
+    "category": "Copy-Generic",
+    "amount": 950
+  },
+  {
+    "id": "ea8c725a-c1e5-4ea6-82b9-7c6dbbf3d1c5",
+    "date": "2024-07-07",
+    "category": "Display-Generic",
+    "amount": 650
+  },
+  {
+    "id": "2964201f-9f5a-482a-bf43-661b8b06a177",
+    "date": "2024-01-01",
+    "category": "Debug-Generic",
+    "amount": 920
+  },
+  {
+    "id": "0d4ee623-17c2-41fc-b183-67ea35e76867",
+    "date": "2024-02-02",
+    "category": "Clone-Generic",
+    "amount": 9000
+  },
+  {
+    "id": "6c2654ab-1404-48f4-b74b-c516c593a032",
+    "date": "2024-09-09",
+    "category": "Macro-Generic",
+    "amount": 3230
+  }
+]

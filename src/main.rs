@@ -18,7 +18,13 @@ fn print_expenses(expenses: &[Expense]) {
     if expenses.is_empty() {
         println!("No Expenses yet");
     } else {
-        println!("{:<36} {:<20} {:<10} {:>10}", "Id", "ExpenseName", "Date", "Amount");
+        println!(
+            "{:<36} {:<20} {:<10} {:>10}",
+            format!("Id({})", expenses.len()),
+            "ExpenseName",
+            "Date",
+            "Amount"
+        );
         println!("{}", "-".repeat(36 + 1 + 20 + 1 + 10 + 1 + 10));
         for e in expenses {
             println!("{:<36} {:<20} {:<10} {:>10}", e.id, e.category, e.date, e.amount);

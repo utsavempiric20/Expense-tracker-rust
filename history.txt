@@ -1,20 +1,20 @@
-quit
-load new.json
 list
-load new.json
-add Kesar 2024-08-05 550
-save new.json
-update b305d95d-d610-42df-af13-7fba74cd46eb Kesar1 2024-08-05 440
-delete b305d95d-d610-42df-af13-7fba74cd46eb
-load new.json
+add CopyTrait 2024-11-01 200
+add DisplayTrait 2024-12-12 250
+add DebugTrait 2024-10-10 350
+add CloneTrait 2024-05-05 500
+add MacroTrait 2024-06-06 850
+add FmtTrait 2024-04-04 2250
+add ImplTrait 2024-03-03 850
+add Copy-Generic 2024-08-08 950
+add Display-Generic 2024-07-07 650
+add Debug-Generic 2024-01-01 920
+add Clone-Generic 2024-02-02 9000
+add Macro-Generic 2024-09-09 3230
+save tg.json
+list
+clear
 list
 help
-c
 clear
-quit
-load new.json
 list
-load new.json
-add Kesar-Pista 2024-07-16 50
-save new.json
-quit
