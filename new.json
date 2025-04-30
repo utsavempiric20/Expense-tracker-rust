@@ -1,0 +1,26 @@
+[
+  {
+    "id": "21793c59-4254-4c28-b38b-162c271d0aa1",
+    "date": "2024-12-12",
+    "category": "Ghee",
+    "amount": 450
+  },
+  {
+    "id": "a1ac484a-e35c-48bd-8465-67205c152c75",
+    "date": "2024-11-10",
+    "category": "Milk",
+    "amount": 550
+  },
+  {
+    "id": "3e9760b7-5c53-4af6-9bf5-1d566018b103",
+    "date": "2025-09-05",
+    "category": "ButterMilk",
+    "amount": 850
+  },
+  {
+    "id": "471b64b6-5dbf-40cc-99b8-8c537f7d7dbd",
+    "date": "2024-01-01",
+    "category": "Cheese",
+    "amount": 1000
+  }
+]
