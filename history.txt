@@ -1,0 +1,20 @@
+quit
+load new.json
+list
+load new.json
+add Kesar 2024-08-05 550
+save new.json
+update b305d95d-d610-42df-af13-7fba74cd46eb Kesar1 2024-08-05 440
+delete b305d95d-d610-42df-af13-7fba74cd46eb
+load new.json
+list
+help
+c
+clear
+quit
+load new.json
+list
+load new.json
+add Kesar-Pista 2024-07-16 50
+save new.json
+quit

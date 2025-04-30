@@ -22,5 +22,41 @@
     "date": "2024-01-01",
     "category": "Cheese",
     "amount": 1000
+  },
+  {
+    "id": "1277c876-0a3d-4a6c-bbb7-b13b6573d3ad",
+    "date": "2024-06-02",
+    "category": "Kaju",
+    "amount": 850
+  },
+  {
+    "id": "0bc23f69-3598-4cbf-81ab-22392c8ba68d",
+    "date": "2024-08-09",
+    "category": "Badam",
+    "amount": 300
+  },
+  {
+    "id": "8e348705-f7be-4814-bc95-a9c719382ef9",
+    "date": "2024-08-10",
+    "category": "Pista",
+    "amount": 500
+  },
+  {
+    "id": "a0249b5c-2c7b-4872-b229-259245c1bd2a",
+    "date": "2024-07-12",
+    "category": "Anjir",
+    "amount": 450
+  },
+  {
+    "id": "b305d95d-d610-42df-af13-7fba74cd46eb",
+    "date": "2024-08-05",
+    "category": "Kesar",
+    "amount": 550
+  },
+  {
+    "id": "60da31d8-ae69-462a-8e38-2ae11e437580",
+    "date": "2024-07-16",
+    "category": "Kesar-Pista",
+    "amount": 50
   }
 ]
