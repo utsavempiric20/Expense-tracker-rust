@@ -64,5 +64,11 @@
     "date": "2025-04-30",
     "category": "Kaju-Anjir",
     "amount": 1080
+  },
+  {
+    "id": "eb5f41a8-d5a4-4bea-87f3-c069c43ebb2a",
+    "date": "2024-08-08",
+    "category": "Macro-Trait",
+    "amount": 15000
   }
 ]

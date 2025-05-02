@@ -1,13 +1,3 @@
-list
-add CopyTrait 2024-11-01 200
-add DisplayTrait 2024-12-12 250
-add DebugTrait 2024-10-10 350
-add CloneTrait 2024-05-05 500
-add MacroTrait 2024-06-06 850
-add FmtTrait 2024-04-04 2250
-add ImplTrait 2024-03-03 850
-add Copy-Generic 2024-08-08 950
-add Display-Generic 2024-07-07 650
 add Debug-Generic 2024-01-01 920
 add Clone-Generic 2024-02-02 9000
 add Macro-Generic 2024-09-09 3230
@@ -18,3 +8,13 @@ list
 help
 clear
 list
+load new.json
+list
+add Macro-Generic 2024-09-09 3230
+list
+help
+total-expense
+update eb5f41a8-d5a4-4bea-87f3-c069c43ebb2a Macro-Trait 2024-08-08 150
+update eb5f41a8-d5a4-4bea-87f3-c069c43ebb2a Macro-Trait 2024-08-08 15000
+list
+save new.json
